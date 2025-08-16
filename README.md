@@ -1,4 +1,4 @@
-# 🎭 Emotion Recognition App  
+# 🎭 AI MOOD MIRROR APP
 
 A simple yet powerful web app that detects **human emotions** from uploaded images or live webcam feed using **Facial Expression Recognition (FER)** and **Gradio**.  
 
